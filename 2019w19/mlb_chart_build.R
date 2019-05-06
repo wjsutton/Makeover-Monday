@@ -82,7 +82,7 @@ p5 <- ggplot(p4, aes(bar_rank, season, player_name)) +
   ylim(0, 1.3) +
   guides(color = FALSE, fill = FALSE) +
   labs(title = 'Top 10 MLB Home Run Hitters, 1985-{closest_state}'
-       ,subtitle = "Note: excludes players were salary data is not available."
+       ,subtitle = "Note: excludes players where salary data is not available."
        ,x = element_blank()
        ,y = 'Home Runs since 1985'
        ,caption = 'Author: @WJSutton12, Data: Lahman's Baseball Database') +
