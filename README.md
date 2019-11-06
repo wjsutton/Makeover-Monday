@@ -1,6 +1,6 @@
 # Makeover Monday Data Visualisations 📈📊📉
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/wjsutton/Makeover-Monday.svg)](https://github.com/wjsutton/Makeover-Monday/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wjsutton/Makeover-Monday.svg)](https://github.com/wjsutton/icymi_email/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/wjsutton/Makeover-Monday.svg)](https://github.com/wjsutton/Makeover-Monday/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wjsutton/Makeover-Monday.svg)](https://github.com/wjsutton/icymi_email/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE.md)
   
 ---
 
@@ -31,7 +31,7 @@ Ordered by most recent visualisation, all dataset can be found here: [https://ww
   <b>The MLB's Most Efficient Batters</b>
   <br>MM Week 19 2019
   <br>⛏️ Built Using: R
-  <br><br><br><br><br>
+  <br><br><br><br><br><br>
 </div>
 <div>
 	<a href="https://public.tableau.com/views/StephCurrysNBAStadiumPopcornRankings/PopcornRankings?:display_count=y&:origin=viz_share_link">
@@ -40,7 +40,7 @@ Ordered by most recent visualisation, all dataset can be found here: [https://ww
   <b>Steph Curry's Stadium Popcorn Rankings</b>
   <br>MM Week 17 2019
   <br>⛏️ Built Using: Tableau
-  <br><br><br><br><br>
+  <br><br><br><br><br><br>
 </div>
 <div>
 	<a href="https://public.tableau.com/views/MillenialSpending/MILLENIALSPENDINGJUNE2017?:display_count=y&:origin=viz_share_link">
@@ -49,7 +49,7 @@ Ordered by most recent visualisation, all dataset can be found here: [https://ww
   <b>Consumer Spending by Generation</b>
   <br>MM Week 13 2019
   <br>⛏️ Built Using: Tableau
-  <br><br><br><br><br>
+  <br><br><br><br><br><br>
 </div>
 <div>
 	<a href="https://public.tableau.com/views/TheReykjavikIndexforLeadership_15529290129550/ReykjavikIndex?:display_count=y&:origin=viz_share_link">
@@ -58,7 +58,7 @@ Ordered by most recent visualisation, all dataset can be found here: [https://ww
   <b>How do we ready feel about female leaders</b>
   <br>MM Week 12 2019
   <br>⛏️ Built Using: Tableau
-  <br><br><br><br><br>
+  <br><br><br><br><br><br>
 </div>
 <div>
 	<a href="https://public.tableau.com/views/OnYerBike/OnYerBike?:display_count=y&:origin=viz_share_link">
@@ -67,7 +67,7 @@ Ordered by most recent visualisation, all dataset can be found here: [https://ww
   <b>Economical value of the bicycle industry</b>
   <br>MM Week 09 2019
   <br>⛏️ Built Using: Tableau
-  <br><br><br><br><br>
+  <br><br><br><br><br><br>
 </div>
 <div>
 	<a href="https://public.tableau.com/views/GettingMoreBlowForYourBuck/GETTINGMOREBLOWFORYOURBUCK?:display_count=y&:origin=viz_share_link">
@@ -76,7 +76,7 @@ Ordered by most recent visualisation, all dataset can be found here: [https://ww
   <b>Which States Produce the Most Wind Energy</b>
   <br>MM Week 08 2019
   <br>⛏️ Built Using: Tableau
-  <br><br><br><br><br>
+  <br><br><br><br><br><br>
 </div>
 <div>
 	<a href="https://public.tableau.com/views/VDATheGermanpassengercarmarket/TheGermanPassengerCarMarket?:display_count=y&:origin=viz_share_link">
@@ -85,7 +85,7 @@ Ordered by most recent visualisation, all dataset can be found here: [https://ww
   <b>The German Automative Industry</b>
   <br>MM Week 07 2019 (Bonus)
   <br>⛏️ Built Using: Tableau
-  <br><br><br><br><br>
+  <br><br><br><br><br><br>
 </div>
 <div>
 	<a href="https://public.tableau.com/views/ESPNToughestSportbySkill/ESPNTheToughestSportbySkill?:display_count=y&:origin=viz_share_link">
@@ -94,7 +94,7 @@ Ordered by most recent visualisation, all dataset can be found here: [https://ww
   <b>ESPN's Toughest Sports by Skill</b>
   <br>MM Week 19 2018
   <br>⛏️ Built Using: Tableau
-  <br><br><br><br><br>
+  <br><br><br><br><br><br>
 </div>
 <!--div>
 	<a href="https://public.tableau.com/views/ESPNToughestSportbySkill/ESPNTheToughestSportbySkill?:display_count=y&:origin=viz_share_link">
