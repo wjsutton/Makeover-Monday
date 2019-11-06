@@ -24,19 +24,29 @@ What's Makeover Monday? Find out here: [https://www.makeovermonday.co.uk](https:
 
 Ordered by most recent visualisation, all dataset can be found here: [https://www.makeovermonday.co.uk/data/](https://www.makeovermonday.co.uk/data/)
 
-<ul style="list-style-type:none; padding:0;">
-<a style="text-decoration:none;color:black;display:block;" href="https://raw.githubusercontent.com/wjsutton/Makeover-Monday/master/2019w19/mlb_home_run_bar_chart_race.gif">
-<li style="display: inline-block;width:100%;">
-  <img style="float: left;padding-right:10px;padding-left:10px;padding-bottom:5px;" src="/2019w19/mlb_home_run_bar_chart_race.gif" height="200px" width="200px" align="top">
-  <b>The MLB's Most Efficient Batters</b>  
-  <br>
-  MM Week 19 2019
-  <br>
-  ⛏️ Built Using: R
-  <br>
-  <br> 
-</li></a>
-<a style="text-decoration:none;color:black;display:block;" href="https://public.tableau.com/views/StephCurrysNBAStadiumPopcornRankings/PopcornRankings?:display_count=y&:origin=viz_share_link">
+<!--ul style="list-style-type:none; padding:0;" style="float: left;padding-right:10px;padding-left:10px;padding-bottom:5px;"-->
+<div>
+	<a href="https://raw.githubusercontent.com/wjsutton/Makeover-Monday/master/2019w19/mlb_home_run_bar_chart_race.gif">
+		<img src="/2019w19/mlb_home_run_bar_chart_race.gif" height="200px">
+	</a>
+  <b>The MLB's Most Efficient Batters</b>
+  <br>MM Week 19 2019
+  <br>⛏️ Built Using: R
+  <br><br><br><br>
+</div>
+<div>
+	<a href="https://public.tableau.com/views/StephCurrysNBAStadiumPopcornRankings/PopcornRankings?:display_count=y&:origin=viz_share_link">
+		<img src="/2019w17/thumbnail_Popcorn Rankings.png" height="200px">
+	</a>
+  <b>Steph Curry's Stadium Popcorn Rankings</b>
+  <br>MM Week 17 2019
+  <br>⛏️ Built Using: Tableau
+  <br><br><br><br>
+</div>
+
+
+<!--/li-->
+<a style="text-decoration:none;color:black;display:block;" href="">
 <li style="display: inline-block;width:100%;">
   <img style="float: left;padding-right:10px;padding-left:10px;padding-bottom:5px;" src="/2019w17/Popcorn Rankings.png" height="200px" width="200px">
   <b>Steph Curry's Stadium Popcorn Rankings</b>  
