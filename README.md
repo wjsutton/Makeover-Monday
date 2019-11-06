@@ -27,7 +27,7 @@ Ordered by most recent visualisation, all dataset can be found here: [https://ww
 <ul style="list-style-type:none; padding:0;">
 <a style="text-decoration:none;color:black;display:block;" href="https://raw.githubusercontent.com/wjsutton/Makeover-Monday/master/2019w19/mlb_home_run_bar_chart_race.gif">
 <li style="display: inline-block;width:100%;">
-  <img style="float: left;padding-right:10px;padding-left:10px;padding-bottom:5px;" src="/2019w19/mlb_home_run_bar_chart_race.gif" height="200px" width="200px">
+  <img style="float: left;padding-right:10px;padding-left:10px;padding-bottom:5px;" src="/2019w19/mlb_home_run_bar_chart_race.gif" height="200px" width="200px" align="top">
   <b>The MLB's Most Efficient Batters</b>  
   <br>
   MM Week 19 2019
