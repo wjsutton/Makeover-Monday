@@ -22,7 +22,7 @@ What's Makeover Monday? Find out here: [https://www.makeovermonday.co.uk](https:
 
 ## 📊 Data Visualisations <a name = "data_viz"></a>
 
-Ordered by most recent visualisation, all dataset can be found here: [https://www.makeovermonday.co.uk/data/](https://www.makeovermonday.co.uk/data/)
+Ordered by most recent visualisation, all datasets can be found here: [https://www.makeovermonday.co.uk/data/](https://www.makeovermonday.co.uk/data/)
 
 <div>
 	<a href="https://raw.githubusercontent.com/wjsutton/Makeover-Monday/master/2019w19/mlb_home_run_bar_chart_race.gif">
