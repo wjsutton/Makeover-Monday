@@ -23,7 +23,15 @@ What's Makeover Monday? Find out here: [https://www.makeovermonday.co.uk](https:
 ## 📊 Data Visualisations <a name = "data_viz"></a>
 
 Ordered by most recent visualisation, all datasets can be found here: [https://www.makeovermonday.co.uk/data/](https://www.makeovermonday.co.uk/data/)
-
+<div>
+	<a href="https://public.tableau.com/views/SquirrelCensus_15746794147220/SquirrelCensus?:display_count=y&:origin=viz_share_link">
+		<img src="/2019w48/Squirrel Census.png" height="200px" align="left">
+	</a>
+  <b>Squirrel Census</b>
+  <br>MM Week 48 2019
+  <br>⛏️ Built Using: Tableau
+  <br><br><br><br><br><br><br>
+</div>
 <div>
 	<a href="https://raw.githubusercontent.com/wjsutton/Makeover-Monday/master/2019w19/mlb_home_run_bar_chart_race.gif">
 		<img src="/2019w19/mlb_home_run_bar_chart_race.gif" height="200px" align="left">
