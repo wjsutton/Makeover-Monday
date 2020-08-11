@@ -15,5 +15,5 @@ legend.append("text").attr("x", 372).attr("y", 12).text("Paid work").style("font
 legend.append("text").attr("x", 472).attr("y", 12).text("Unpaid work").style("font-size", "13px").attr("alignment-baseline","middle").attr("fill", "black")
 
 // Adding text at either end of div for author and source
-legend.append("text").attr("x", 695).attr("y", 12).text("Source: UN Stats").style("font-size", "13px").attr("alignment-baseline","middle").attr("fill", "black")
-legend.append("text").attr("x", 0).attr("y", 12).text("Author: Will Sutton").style("font-size", "13px").attr("alignment-baseline","middle").attr("fill", "black")
+//legend.append("text").attr("x", 695).attr("y", 12).text("Source: UN Stats").style("font-size", "13px").attr("alignment-baseline","middle").attr("fill", "black")
+//legend.append("text").attr("x", 0).attr("y", 12).text("Author: Will Sutton").style("font-size", "13px").attr("alignment-baseline","middle").attr("fill", "black")
