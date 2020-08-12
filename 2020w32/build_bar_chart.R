@@ -58,6 +58,6 @@ barplot <- ggplot(data, aes(x=reorder(name, value), y=value)) + # enter data fra
   )
 
 # Save the plot
-ggsave("the_flex_life_bar_chart.png" # filename
+ggsave("2020w32/the_flex_life_bar_chart.png" # filename
        ,plot = barplot # variable for file
        ,width = 5, height = 4, dpi = 300, units = "in") # dimensions and image quality
